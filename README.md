@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @developer-Masrrat
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Masarrat Noor] 
 - 👀 I’m interested in Web Development, Backend programming 
 - 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on some open-source projects
